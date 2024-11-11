@@ -1,9 +1,9 @@
 # Modal Preview
 
-This project is an initial prototype created to automate component generation, solving repetitive creation issues. It is a generator of small templates (components) that allows for interactive creation and previewing of templates, using Vue.js for building the user interface.
+This project was an initial prototype created to automate component generation, solving repetitive creation issues. It is a generator of small templates (components) that allows for interactive creation and previewing of templates, using Vue.js for building the user interface.
 
 ## Problem to Solve
-Creating components for advertising purposes where the format is always a modal, but the layout varies. The goal is to automate the construction of these modals, reducing manual work and enabling customization.
+Creating components for advertising purposes where the format can be a modal, pop ups or others small elements to offer something, but the layout varies. The goal is to automate the construction of these elements, reducing manual work and enabling customization.
 
 ## Proposed Solution
 A template engine that allows users to model components with specific characteristics (such as name, width, height, and number of rows), save them, and manage them. This engine includes an interface library, enabling users to create their own templates.
